@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Password Verification and Welcome</string>
+    <string name="txt_pswd">Password</string>
+    <string name="btn_verify">Verify</string>
+    <string name="txtvw1">Welcome</string>
+    <string name="btn_back">Back</string>
+</resources>
